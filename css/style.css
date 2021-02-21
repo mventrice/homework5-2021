@@ -157,7 +157,7 @@ header{
   background-color: rgba(255, 255, 255, .8);
   border: 10px solid black;
   padding: 30px;
-  margin: auto auto;
+  align-self: center;
 
 }
 
